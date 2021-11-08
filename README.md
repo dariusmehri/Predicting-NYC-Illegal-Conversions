@@ -4,9 +4,9 @@ The goal of this project was to label buildings in New York City that are at hig
 https://www.independent.co.uk/climate-change/news/new-york-apartment-flood-ida-b1914113.html
 
 # Data
-311 illegal conversion complaints routed to the DOB, DOB previous class one violations,  HPD multiple dwelling buildings, HPD multiple dwelling owners (contact list) and PLUTO.
+Ten years of historicaly data: 311 illegal conversion complaints routed to the DOB, DOB previous class one violations, DOB job filings, HPD multiple dwelling buildings, HPD multiple dwelling owners (contact list) and PLUTO.
 
 # Model
 Outcome variable: DOB vacate order on an illegal conversion complaint. A vacate typically occurs when the apartment has an inadequate or blocked egress, occupancy contrary to what is allowed by the law, or other hazardous conditions.
 
-Independent variables: 
+Independent variables: Indpendent variables included measures for building characteristics, previous bad behavior and location of the building. Building classification, year built, building area, high or low rise, flag for multiple dwelling building, median income (based on location of building), whether building had a previous job filing (it was thought that a building is more likely to be an illegal conversion if there was no history of receiving a job filing),  text dummy variables based on the complaint notes (basement, attic, cellar, occupancy, FDNY), community board. 
