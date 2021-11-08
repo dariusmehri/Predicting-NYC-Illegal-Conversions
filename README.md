@@ -6,4 +6,7 @@ https://www.independent.co.uk/climate-change/news/new-york-apartment-flood-ida-b
 # Data
 311 illegal conversion complaints routed to the DOB, DOB previous class one violations,  HPD multiple dwelling buildings, HPD multiple dwelling owners (contact list) and PLUTO.
 
+# Model
+Outcome variable: DOB vacate order on an illegal conversion complaint. A vacate typically occurs when the apartment has an inadequate or blocked egress, occupancy contrary to what is allowed by the law, or other hazardous conditions.
 
+Independent variables: 
