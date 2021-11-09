@@ -9,4 +9,6 @@ Ten years of historicaly data: 311 illegal conversion complaints routed to the D
 # Model
 Outcome variable: DOB vacate order on an illegal conversion complaint. A vacate typically occurs when the apartment has an inadequate or blocked egress, occupancy contrary to what is allowed by the law, or other hazardous conditions.
 
-Independent variables: Indpendent variables included measures for building characteristics, previous bad behavior and location of the building. Building classification, year built, building area, high or low rise, flag for multiple dwelling building, median income (based on location of building), whether building had a previous job filing (it was thought that a building is more likely to be an illegal conversion if there was no history of receiving a job filing),  text dummy variables based on the complaint notes (basement, attic, cellar, occupancy, FDNY), community board. 
+Independent variables: Indpendent variables included measures for building characteristics, previous bad behavior and location of the building. Variables include building classification, year built, building area, high or low rise, flag if multiple dwelling building, median income (based on location of building), whether building had a previous job filing (it was thought that a building is more likely to be an illegal conversion if there was no history of receiving a job filing),  text key word dummy variables based on the complaint notes (basement, attic, cellar, occupancy, FDNY), community board. 
+
+# Results
